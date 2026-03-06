@@ -1,6 +1,12 @@
 body{
 margin: auto;
 padding: 5px;
-background-color: aquamarine;
+
+
+}
+contact-details{
+    margin: 3px;
+    padding: 10px;
+    background-color: antiquewhite;
 
 }
